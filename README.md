@@ -6,3 +6,4 @@ Para o meu caso, saber a proximidade entre os municípios e a capital mais próx
 - Para acessar a base de latitude em longitude, [clique aqui](https://github.com/mateusengq/DISTANCIA_MUNICIPIOS_BRASIL/tree/main/BASES).
 - Para acessar o codigo para o calculo das distancias, [clique aqui].
 - Para acessar a base com todas as distancias, [clique aqui](https://github.com/mateusengq/DISTANCIA_MUNICIPIOS_BRASIL/tree/main/BASES).
+-   A base principal pode ser acessada no [Onedrive](https://1drv.ms/f/s!ArBAp6uvPxxSkP85almwcAxfseldzg?e=zBmQhI)
